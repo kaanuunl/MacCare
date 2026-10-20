@@ -1,8 +1,23 @@
 # MacCare
 
+<p align="center">
+  <img src="Resources/AppIcon_1024.png" alt="MacCare app icon" width="160">
+</p>
+
 A lightweight, modern native macOS system monitor and maintenance tool built with Swift and SwiftUI.
 
 MacCare provides real-time hardware sensor monitoring (CPU, GPU, RAM, SSD, and battery temperatures) via Apple's native IOKit framework, paired with a safe system cleanup utility to reclaim disk space.
+
+## Screenshots
+
+### Overview
+![MacCare overview dashboard](Screenshots/overview.png)
+
+### Hardware temperatures
+![MacCare hardware temperature monitor](Screenshots/temperatures.png)
+
+### Preferences and settings
+![MacCare preferences and settings](Screenshots/settings.png)
 
 ---
 
