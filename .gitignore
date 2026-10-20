@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon\r\r
+._*
+
+# Xcode / SPM
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad
+
+# App bundles
+*.app/
+*.dSYM/
